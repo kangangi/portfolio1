@@ -1,7 +1,10 @@
 img{
-  float: right;
+  float: left;
   width: 400px;
   height: 400px;
-  object-fit: none;
+  object-fit: cover;
   border: 4px solid #DB7093;
+}
+body{
+  background-color: #FFF5EE;
 }
