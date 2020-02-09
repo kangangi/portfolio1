@@ -25,9 +25,9 @@ h2{
 .projects{
   text-align: justify;
   font-size: 20px;
-  margin-right: 50px;
+  margin-right: 100px;
   float:  left;
-  width: 400px;
+  width: 250px;
 }
 .projects  img{
     float: left;
@@ -36,16 +36,17 @@ h2{
     object-fit: cover;
     border: 6px solid #CD5C5C;
     margin: 20px;
-    margin-right: 60px;
+    margin-right: 40px;
 }
 .projects a {
   color: #CD5C5C;
 }
 .why{
   font-size: 20px;
-  padding: 40px;
+  padding: 55px;
   text-align: justify;
-  vertical-align: middle;
+  width: 800px;
+  float: right;
   font-style: italic;
 }
 .background{
