@@ -31,10 +31,10 @@ h2{
 }
 .projects  img{
     float: left;
-    width: 300px;
+    width: 350px;
     height: 300px;
     object-fit: cover;
-    border: 6px solid #CD5C5C;
+    border: 6px solid crimson;
     margin: 20px;
     margin-right: 20px;
 }
