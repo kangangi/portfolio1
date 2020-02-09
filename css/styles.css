@@ -53,6 +53,9 @@ h2{
   float: right;
   font-style: italic;
 }
+.why h2{
+  text-align: right;
+}
 .background{
   float: left;
   width: 700px;
